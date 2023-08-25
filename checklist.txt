@@ -1,0 +1,16 @@
+Criar um sistema de console para cadastro de Pessoas Jurídicas.
+
+Classe abstrata Pessoa com atributos nome e rendimento.
+
+Classe Pessoa Jurídica com atributo CNPJ e método validar CNPJ com os seguintes requisitos (quantidade de caracteres 18 na posição correta ex: XX.XXX.XXX/0001-X)
+
+Criar no Program um menu com opções de cadastrar PJ e Lista PJ
+salvando os valores no aequivoTXT.
+
+[OK] Criar o projeto console
+[OK] Criar as classes Pessoa e Pessoa Jurídica
+[OK] Criar os atribuots de cada Classe
+[OK] Criar o método de validar o CNPJ
+[OK] Criar o método que salva uma PJ
+[OK] Criar o método que lê uma PJ
+[OK] Criar o Program
